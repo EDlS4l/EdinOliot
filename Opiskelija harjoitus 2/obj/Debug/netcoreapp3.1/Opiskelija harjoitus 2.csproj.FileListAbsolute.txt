@@ -1,0 +1,14 @@
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Opiskelija harjoitus 2\bin\Debug\netcoreapp3.1\Opiskelija harjoitus 2.exe
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Opiskelija harjoitus 2\bin\Debug\netcoreapp3.1\Opiskelija harjoitus 2.deps.json
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Opiskelija harjoitus 2\bin\Debug\netcoreapp3.1\Opiskelija harjoitus 2.runtimeconfig.json
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Opiskelija harjoitus 2\bin\Debug\netcoreapp3.1\Opiskelija harjoitus 2.runtimeconfig.dev.json
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Opiskelija harjoitus 2\bin\Debug\netcoreapp3.1\Opiskelija harjoitus 2.dll
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Opiskelija harjoitus 2\bin\Debug\netcoreapp3.1\Opiskelija harjoitus 2.pdb
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Opiskelija harjoitus 2\obj\Debug\netcoreapp3.1\Opiskelija harjoitus 2.csproj.AssemblyReference.cache
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Opiskelija harjoitus 2\obj\Debug\netcoreapp3.1\Opiskelija harjoitus 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Opiskelija harjoitus 2\obj\Debug\netcoreapp3.1\Opiskelija harjoitus 2.AssemblyInfoInputs.cache
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Opiskelija harjoitus 2\obj\Debug\netcoreapp3.1\Opiskelija harjoitus 2.AssemblyInfo.cs
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Opiskelija harjoitus 2\obj\Debug\netcoreapp3.1\Opiskelija harjoitus 2.csproj.CoreCompileInputs.cache
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Opiskelija harjoitus 2\obj\Debug\netcoreapp3.1\Opiskelija harjoitus 2.dll
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Opiskelija harjoitus 2\obj\Debug\netcoreapp3.1\Opiskelija harjoitus 2.pdb
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Opiskelija harjoitus 2\obj\Debug\netcoreapp3.1\Opiskelija harjoitus 2.genruntimeconfig.cache
