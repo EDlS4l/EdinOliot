@@ -1,0 +1,5 @@
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus 4 Albumi\obj\Debug\netcoreapp3.1\Harjoitus 4 Albumi.csproj.AssemblyReference.cache
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus 4 Albumi\obj\Debug\netcoreapp3.1\Harjoitus 4 Albumi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus 4 Albumi\obj\Debug\netcoreapp3.1\Harjoitus 4 Albumi.AssemblyInfoInputs.cache
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus 4 Albumi\obj\Debug\netcoreapp3.1\Harjoitus 4 Albumi.AssemblyInfo.cs
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus 4 Albumi\obj\Debug\netcoreapp3.1\Harjoitus 4 Albumi.csproj.CoreCompileInputs.cache
