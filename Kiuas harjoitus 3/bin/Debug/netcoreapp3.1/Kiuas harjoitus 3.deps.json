@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Kiuas harjoitus 3/1.0.0": {
+        "runtime": {
+          "Kiuas harjoitus 3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kiuas harjoitus 3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
