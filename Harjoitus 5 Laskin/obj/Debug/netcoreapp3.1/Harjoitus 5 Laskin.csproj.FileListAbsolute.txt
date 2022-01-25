@@ -1,0 +1,14 @@
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus 5 Laskin\obj\Debug\netcoreapp3.1\Harjoitus 5 Laskin.csproj.AssemblyReference.cache
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus 5 Laskin\obj\Debug\netcoreapp3.1\Harjoitus 5 Laskin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus 5 Laskin\obj\Debug\netcoreapp3.1\Harjoitus 5 Laskin.AssemblyInfoInputs.cache
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus 5 Laskin\obj\Debug\netcoreapp3.1\Harjoitus 5 Laskin.AssemblyInfo.cs
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus 5 Laskin\obj\Debug\netcoreapp3.1\Harjoitus 5 Laskin.csproj.CoreCompileInputs.cache
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus 5 Laskin\bin\Debug\netcoreapp3.1\Harjoitus 5 Laskin.exe
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus 5 Laskin\bin\Debug\netcoreapp3.1\Harjoitus 5 Laskin.deps.json
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus 5 Laskin\bin\Debug\netcoreapp3.1\Harjoitus 5 Laskin.runtimeconfig.json
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus 5 Laskin\bin\Debug\netcoreapp3.1\Harjoitus 5 Laskin.runtimeconfig.dev.json
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus 5 Laskin\bin\Debug\netcoreapp3.1\Harjoitus 5 Laskin.dll
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus 5 Laskin\bin\Debug\netcoreapp3.1\Harjoitus 5 Laskin.pdb
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus 5 Laskin\obj\Debug\netcoreapp3.1\Harjoitus 5 Laskin.dll
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus 5 Laskin\obj\Debug\netcoreapp3.1\Harjoitus 5 Laskin.pdb
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus 5 Laskin\obj\Debug\netcoreapp3.1\Harjoitus 5 Laskin.genruntimeconfig.cache
