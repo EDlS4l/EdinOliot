@@ -1,0 +1,13 @@
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus 6 Eläin\bin\Debug\netcoreapp3.1\Harjoitus 6 Eläin.exe
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus 6 Eläin\bin\Debug\netcoreapp3.1\Harjoitus 6 Eläin.deps.json
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus 6 Eläin\bin\Debug\netcoreapp3.1\Harjoitus 6 Eläin.runtimeconfig.json
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus 6 Eläin\bin\Debug\netcoreapp3.1\Harjoitus 6 Eläin.runtimeconfig.dev.json
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus 6 Eläin\bin\Debug\netcoreapp3.1\Harjoitus 6 Eläin.dll
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus 6 Eläin\bin\Debug\netcoreapp3.1\Harjoitus 6 Eläin.pdb
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus 6 Eläin\obj\Debug\netcoreapp3.1\Harjoitus 6 Eläin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus 6 Eläin\obj\Debug\netcoreapp3.1\Harjoitus 6 Eläin.AssemblyInfoInputs.cache
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus 6 Eläin\obj\Debug\netcoreapp3.1\Harjoitus 6 Eläin.AssemblyInfo.cs
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus 6 Eläin\obj\Debug\netcoreapp3.1\Harjoitus 6 Eläin.csproj.CoreCompileInputs.cache
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus 6 Eläin\obj\Debug\netcoreapp3.1\Harjoitus 6 Eläin.dll
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus 6 Eläin\obj\Debug\netcoreapp3.1\Harjoitus 6 Eläin.pdb
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus 6 Eläin\obj\Debug\netcoreapp3.1\Harjoitus 6 Eläin.genruntimeconfig.cache
