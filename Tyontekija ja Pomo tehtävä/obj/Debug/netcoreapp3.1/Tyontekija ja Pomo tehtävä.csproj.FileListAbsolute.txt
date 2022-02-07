@@ -1,0 +1,14 @@
+C:\Users\E D\source\repos\Tyontekija ja Pomo tehtävä\obj\Debug\netcoreapp3.1\Tyontekija ja Pomo tehtävä.csproj.AssemblyReference.cache
+C:\Users\E D\source\repos\Tyontekija ja Pomo tehtävä\obj\Debug\netcoreapp3.1\Tyontekija ja Pomo tehtävä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E D\source\repos\Tyontekija ja Pomo tehtävä\obj\Debug\netcoreapp3.1\Tyontekija ja Pomo tehtävä.AssemblyInfoInputs.cache
+C:\Users\E D\source\repos\Tyontekija ja Pomo tehtävä\obj\Debug\netcoreapp3.1\Tyontekija ja Pomo tehtävä.AssemblyInfo.cs
+C:\Users\E D\source\repos\Tyontekija ja Pomo tehtävä\obj\Debug\netcoreapp3.1\Tyontekija ja Pomo tehtävä.csproj.CoreCompileInputs.cache
+C:\Users\E D\source\repos\Tyontekija ja Pomo tehtävä\bin\Debug\netcoreapp3.1\Tyontekija ja Pomo tehtävä.exe
+C:\Users\E D\source\repos\Tyontekija ja Pomo tehtävä\bin\Debug\netcoreapp3.1\Tyontekija ja Pomo tehtävä.deps.json
+C:\Users\E D\source\repos\Tyontekija ja Pomo tehtävä\bin\Debug\netcoreapp3.1\Tyontekija ja Pomo tehtävä.runtimeconfig.json
+C:\Users\E D\source\repos\Tyontekija ja Pomo tehtävä\bin\Debug\netcoreapp3.1\Tyontekija ja Pomo tehtävä.runtimeconfig.dev.json
+C:\Users\E D\source\repos\Tyontekija ja Pomo tehtävä\bin\Debug\netcoreapp3.1\Tyontekija ja Pomo tehtävä.dll
+C:\Users\E D\source\repos\Tyontekija ja Pomo tehtävä\bin\Debug\netcoreapp3.1\Tyontekija ja Pomo tehtävä.pdb
+C:\Users\E D\source\repos\Tyontekija ja Pomo tehtävä\obj\Debug\netcoreapp3.1\Tyontekija ja Pomo tehtävä.dll
+C:\Users\E D\source\repos\Tyontekija ja Pomo tehtävä\obj\Debug\netcoreapp3.1\Tyontekija ja Pomo tehtävä.pdb
+C:\Users\E D\source\repos\Tyontekija ja Pomo tehtävä\obj\Debug\netcoreapp3.1\Tyontekija ja Pomo tehtävä.genruntimeconfig.cache

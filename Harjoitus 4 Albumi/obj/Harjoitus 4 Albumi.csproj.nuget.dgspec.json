@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\E D\\source\\repos\\1OlioRepos\\EdinOliot\\Harjoitus 4 Albumi\\Harjoitus 4 Albumi.csproj": {}
+    "C:\\Users\\E D\\source\\repos\\Harjoitus 4 Albumi\\Harjoitus 4 Albumi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\E D\\source\\repos\\1OlioRepos\\EdinOliot\\Harjoitus 4 Albumi\\Harjoitus 4 Albumi.csproj": {
+    "C:\\Users\\E D\\source\\repos\\Harjoitus 4 Albumi\\Harjoitus 4 Albumi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\E D\\source\\repos\\1OlioRepos\\EdinOliot\\Harjoitus 4 Albumi\\Harjoitus 4 Albumi.csproj",
+        "projectUniqueName": "C:\\Users\\E D\\source\\repos\\Harjoitus 4 Albumi\\Harjoitus 4 Albumi.csproj",
         "projectName": "Harjoitus 4 Albumi",
-        "projectPath": "C:\\Users\\E D\\source\\repos\\1OlioRepos\\EdinOliot\\Harjoitus 4 Albumi\\Harjoitus 4 Albumi.csproj",
+        "projectPath": "C:\\Users\\E D\\source\\repos\\Harjoitus 4 Albumi\\Harjoitus 4 Albumi.csproj",
         "packagesPath": "C:\\Users\\E D\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\E D\\source\\repos\\1OlioRepos\\EdinOliot\\Harjoitus 4 Albumi\\obj\\",
+        "outputPath": "C:\\Users\\E D\\source\\repos\\Harjoitus 4 Albumi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

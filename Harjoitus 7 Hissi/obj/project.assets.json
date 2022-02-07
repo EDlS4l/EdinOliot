@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\E D\\source\\repos\\1OlioRepos\\EdinOliot\\Harjoitus 7 Hissi\\Harjoitus 7 Hissi.csproj",
-      "projectName": "Harjoitus 7 Hissi",
-      "projectPath": "C:\\Users\\E D\\source\\repos\\1OlioRepos\\EdinOliot\\Harjoitus 7 Hissi\\Harjoitus 7 Hissi.csproj",
+      "projectUniqueName": "C:\\Users\\E D\\source\\repos\\1OlioRepos\\EdinOliot\\Harjoitus 7 Hissi\\Vahvistin.csproj",
+      "projectName": "Vahvistin",
+      "projectPath": "C:\\Users\\E D\\source\\repos\\1OlioRepos\\EdinOliot\\Harjoitus 7 Hissi\\Vahvistin.csproj",
       "packagesPath": "C:\\Users\\E D\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\E D\\source\\repos\\1OlioRepos\\EdinOliot\\Harjoitus 7 Hissi\\obj\\",
       "projectStyle": "PackageReference",
