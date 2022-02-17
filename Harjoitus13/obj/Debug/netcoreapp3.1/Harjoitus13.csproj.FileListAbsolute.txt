@@ -1,0 +1,14 @@
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus13\obj\Debug\netcoreapp3.1\Harjoitus13.csproj.AssemblyReference.cache
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus13\obj\Debug\netcoreapp3.1\Harjoitus13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus13\obj\Debug\netcoreapp3.1\Harjoitus13.AssemblyInfoInputs.cache
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus13\obj\Debug\netcoreapp3.1\Harjoitus13.AssemblyInfo.cs
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus13\obj\Debug\netcoreapp3.1\Harjoitus13.csproj.CoreCompileInputs.cache
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus13\bin\Debug\netcoreapp3.1\Harjoitus13.exe
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus13\bin\Debug\netcoreapp3.1\Harjoitus13.deps.json
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus13\bin\Debug\netcoreapp3.1\Harjoitus13.runtimeconfig.json
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus13\bin\Debug\netcoreapp3.1\Harjoitus13.runtimeconfig.dev.json
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus13\bin\Debug\netcoreapp3.1\Harjoitus13.dll
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus13\bin\Debug\netcoreapp3.1\Harjoitus13.pdb
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus13\obj\Debug\netcoreapp3.1\Harjoitus13.dll
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus13\obj\Debug\netcoreapp3.1\Harjoitus13.pdb
+C:\Users\E D\source\repos\1OlioRepos\EdinOliot\Harjoitus13\obj\Debug\netcoreapp3.1\Harjoitus13.genruntimeconfig.cache

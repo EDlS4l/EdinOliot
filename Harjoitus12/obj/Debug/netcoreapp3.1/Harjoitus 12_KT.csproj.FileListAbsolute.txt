@@ -1,0 +1,4 @@
+C:\Users\E D\source\repos\Harjoitus 12\obj\Debug\netcoreapp3.1\Harjoitus 12_KT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E D\source\repos\Harjoitus 12\obj\Debug\netcoreapp3.1\Harjoitus 12_KT.AssemblyInfoInputs.cache
+C:\Users\E D\source\repos\Harjoitus 12\obj\Debug\netcoreapp3.1\Harjoitus 12_KT.AssemblyInfo.cs
+C:\Users\E D\source\repos\Harjoitus 12\obj\Debug\netcoreapp3.1\Harjoitus 12_KT.csproj.CoreCompileInputs.cache
